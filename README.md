@@ -10,4 +10,4 @@ Meu nome é Pedro Henrique Feitosa Covino
 
 pedrofeitosacovino123@gmail.com
 
-![]([link GIF do Tenor](https://media1.tenor.com/m/ejW5QVz8Un8AAAAC/regular-show.gif))
+![](https://media1.tenor.com/m/ejW5QVz8Un8AAAAC/regular-show.gif)
